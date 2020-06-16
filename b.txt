@@ -1,2 +1,6 @@
 Added  a linex
+<<<<<<< HEAD
 Second line added to seondary
+=======
+New second line
+>>>>>>> secondary
